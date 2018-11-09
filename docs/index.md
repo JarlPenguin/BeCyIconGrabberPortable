@@ -8,5 +8,5 @@ Welcome to the BeCyIconGrabber Portable Homepage! Here you will find resources a
 - This app's [help.html](https://github.com/JarlPenguin/BeCyIconGrabberPortable/tree/master/docs/help.html)
 
 ## Downloads
-- [Latest Version](https://github.com/JarlPenguin/BeCyIconGrabberPortable/releases/tag/2.29.9.4)
+- [Latest Version](https://github.com/JarlPenguin/BeCyIconGrabberPortable/releases/download/2.29.9.4/BeCyIconGrabberPortable_2.30.0.0_Dev_Test_4_English.paf.exe)
 - [Legacy Versions](https://github.com/JarlPenguin/BeCyIconGrabberPortable/releases)
